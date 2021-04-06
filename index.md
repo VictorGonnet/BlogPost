@@ -1,5 +1,6 @@
 # Bonjour, Je publie ici les 4 Blogposts développés au cours du module commun ainsi que mon plan de développement professionnel.
 
+
 ## Blogpost 1 :
 Je m'appelle Victor, j'ai 21 ans et j'étudie le Games Programming en 1ere année à la SAE Genève. Je suis titulaire d'un bac scientifique et d'une licence d'Arts du spectacle – Parcours cinéma de l'Université Lyon 2, j'ai également eu la chance d'avoir pu découvrir le japonais pendant 1 an à l'université Grenoble 3 – Stendhal.
 
